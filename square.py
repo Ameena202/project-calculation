@@ -1,8 +1,8 @@
 import math
 
 # Define the two numbers
-number1 = 17
-number2 = 26
+number1 = 11
+number2 = 20
 
 # Calculate the square roots
 sqrt1 = math.sqrt(number1)
